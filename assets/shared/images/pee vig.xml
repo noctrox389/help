@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pee vig.png">
+	<!-- Created with Adobe Animate version 21.0.9.41377 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="penis vig0000" x="13" y="13" width="658" height="360"/>
+	<SubTexture name="penis vig0001" x="691" y="13" width="658" height="360"/>
+	<SubTexture name="penis vig0002" x="1369" y="13" width="658" height="360"/>
+	<SubTexture name="penis vig0003" x="13" y="392" width="658" height="360"/>
+</TextureAtlas>

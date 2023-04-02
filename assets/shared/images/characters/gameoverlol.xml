@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gameoverlol.png">
+<SubTexture name="leftgo0000" x="0" y="390" width="784" height="382" frameX="0" frameY="0" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0001" x="0" y="390" width="784" height="382" frameX="0" frameY="0" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0002" x="0" y="772" width="787" height="349" frameX="-10" frameY="-11" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0003" x="0" y="772" width="787" height="349" frameX="-10" frameY="-11" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0004" x="777" y="1121" width="776" height="335" frameX="-8" frameY="-22" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0005" x="777" y="1121" width="776" height="335" frameX="-8" frameY="-22" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0006" x="1561" y="0" width="776" height="330" frameX="-8" frameY="-24" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0007" x="1561" y="0" width="776" height="330" frameX="-8" frameY="-24" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0008" x="1561" y="989" width="775" height="328" frameX="-9" frameY="-25" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0009" x="1561" y="989" width="775" height="328" frameX="-9" frameY="-25" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0010" x="787" y="357" width="774" height="328" frameX="-10" frameY="-25" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0011" x="787" y="357" width="774" height="328" frameX="-10" frameY="-25" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0012" x="787" y="357" width="774" height="328" frameX="-10" frameY="-25" frameWidth="797" frameHeight="382" />
+<SubTexture name="leftgo0013" x="787" y="357" width="774" height="328" frameX="-10" frameY="-25" frameWidth="797" frameHeight="382" />
+<SubTexture name="rightgo0000" x="0" y="0" width="787" height="390" frameX="0" frameY="0" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0001" x="0" y="0" width="787" height="390" frameX="0" frameY="0" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0002" x="787" y="0" width="774" height="357" frameX="-13" frameY="-21" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0003" x="787" y="0" width="774" height="357" frameX="-13" frameY="-21" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0004" x="0" y="1121" width="777" height="337" frameX="-10" frameY="-29" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0005" x="0" y="1121" width="777" height="337" frameX="-10" frameY="-29" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0006" x="1561" y="330" width="775" height="330" frameX="-13" frameY="-33" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0007" x="1561" y="330" width="775" height="330" frameX="-13" frameY="-33" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0008" x="1561" y="660" width="774" height="329" frameX="-13" frameY="-33" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0009" x="1561" y="660" width="774" height="329" frameX="-13" frameY="-33" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0010" x="787" y="357" width="774" height="328" frameX="-13" frameY="-34" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0011" x="787" y="357" width="774" height="328" frameX="-13" frameY="-34" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0012" x="787" y="357" width="774" height="328" frameX="-13" frameY="-34" frameWidth="788" frameHeight="390" />
+<SubTexture name="rightgo0013" x="787" y="357" width="774" height="328" frameX="-13" frameY="-34" frameWidth="788" frameHeight="390" />
+</TextureAtlas>

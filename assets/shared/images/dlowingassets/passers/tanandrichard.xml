@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tanandrichard.png">
+	<!-- Created with Adobe Animate version 21.0.9.41377 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tanandrichard0000" x="13" y="13" width="694" height="469"/>
+	<SubTexture name="tanandrichard0001" x="13" y="13" width="694" height="469"/>
+	<SubTexture name="tanandrichard0002" x="726" y="13" width="694" height="469"/>
+	<SubTexture name="tanandrichard0003" x="726" y="13" width="694" height="469"/>
+	<SubTexture name="tanandrichard0004" x="13" y="502" width="694" height="469"/>
+	<SubTexture name="tanandrichard0005" x="13" y="502" width="694" height="469"/>
+	<SubTexture name="tanandrichard0006" x="726" y="502" width="694" height="469"/>
+	<SubTexture name="tanandrichard0007" x="726" y="502" width="694" height="469"/>
+	<SubTexture name="tanandrichard0008" x="13" y="991" width="694" height="469"/>
+	<SubTexture name="tanandrichard0009" x="13" y="991" width="694" height="469"/>
+	<SubTexture name="tanandrichard0010" x="726" y="991" width="694" height="469"/>
+	<SubTexture name="tanandrichard0011" x="726" y="991" width="694" height="469"/>
+	<SubTexture name="tanandrichard0012" x="13" y="1480" width="694" height="469"/>
+	<SubTexture name="tanandrichard0013" x="13" y="1480" width="694" height="469"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stupidBlood.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blood 10000" x="0" y="0" width="75" height="190" pivotX="-442.4" pivotY="180.45" frameX="0" frameY="-108" frameWidth="383" frameHeight="380"/>
+</TextureAtlas>

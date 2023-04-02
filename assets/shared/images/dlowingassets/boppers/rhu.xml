@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rhu.png">
+	<!-- Created with Adobe Animate version 21.0.9.41377 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rhu0000" x="13" y="13" width="316" height="207"/>
+	<SubTexture name="rhu0001" x="13" y="13" width="316" height="207"/>
+	<SubTexture name="rhu0002" x="348" y="13" width="316" height="207"/>
+	<SubTexture name="rhu0003" x="348" y="13" width="316" height="207"/>
+	<SubTexture name="rhu0004" x="684" y="13" width="316" height="207"/>
+	<SubTexture name="rhu0005" x="684" y="13" width="316" height="207"/>
+	<SubTexture name="rhu0006" x="13" y="240" width="316" height="207"/>
+	<SubTexture name="rhu0007" x="13" y="240" width="316" height="207"/>
+	<SubTexture name="rhu0008" x="348" y="240" width="316" height="207"/>
+	<SubTexture name="rhu0009" x="348" y="240" width="316" height="207"/>
+	<SubTexture name="rhu0010" x="348" y="240" width="316" height="207"/>
+	<SubTexture name="rhu0011" x="348" y="240" width="316" height="207"/>
+	<SubTexture name="rhu0012" x="348" y="240" width="316" height="207"/>
+	<SubTexture name="rhu0013" x="348" y="240" width="316" height="207"/>
+</TextureAtlas>

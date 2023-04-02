@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chara-shadow.png">
+<SubTexture name="idle0000" x="0" y="0" width="282" height="556" frameX="-4" frameY="-5" frameWidth="287" frameHeight="563" />
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sheriff.png">
+	<!-- Created with Adobe Animate version 21.0.9.41377 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sheriff0000" x="13" y="13" width="297" height="213"/>
+	<SubTexture name="sheriff0001" x="13" y="13" width="297" height="213"/>
+	<SubTexture name="sheriff0002" x="329" y="13" width="297" height="213"/>
+	<SubTexture name="sheriff0003" x="329" y="13" width="297" height="213"/>
+	<SubTexture name="sheriff0004" x="646" y="13" width="297" height="213"/>
+	<SubTexture name="sheriff0005" x="646" y="13" width="297" height="213"/>
+	<SubTexture name="sheriff0006" x="13" y="246" width="297" height="213"/>
+	<SubTexture name="sheriff0007" x="13" y="246" width="297" height="213"/>
+	<SubTexture name="sheriff0008" x="329" y="246" width="297" height="213"/>
+	<SubTexture name="sheriff0009" x="329" y="246" width="297" height="213"/>
+	<SubTexture name="sheriff0010" x="646" y="246" width="297" height="213"/>
+	<SubTexture name="sheriff0011" x="646" y="246" width="297" height="213"/>
+	<SubTexture name="sheriff0012" x="646" y="246" width="297" height="213"/>
+	<SubTexture name="sheriff0013" x="646" y="246" width="297" height="213"/>
+	<SubTexture name="sheriff0014" x="646" y="246" width="297" height="213"/>
+	<SubTexture name="sheriff0015" x="646" y="246" width="297" height="213"/>
+</TextureAtlas>

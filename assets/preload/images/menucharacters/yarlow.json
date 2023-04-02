@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_yarlownasu",
+	"position": [
+		320,
+		100
+	],
+	"scale": 1.1,
+	"idle_anim": "idle",
+	"confirm_anim": "idle"
+}

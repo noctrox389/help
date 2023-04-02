@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amonglita.png">
+	<!-- Created with Adobe Animate version 21.0.9.41377 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amonglita0000" x="13" y="13" width="530" height="556"/>
+	<SubTexture name="amonglita0001" x="13" y="13" width="530" height="556"/>
+	<SubTexture name="amonglita0002" x="562" y="13" width="530" height="556"/>
+	<SubTexture name="amonglita0003" x="562" y="13" width="530" height="556"/>
+	<SubTexture name="amonglita0004" x="556" y="13" width="530" height="556"/>
+	<SubTexture name="amonglita0005" x="556" y="13" width="530" height="556"/>
+	<SubTexture name="amonglita0006" x="13" y="588" width="530" height="556"/>
+	<SubTexture name="amonglita0007" x="13" y="588" width="530" height="556"/>
+	<SubTexture name="amonglita0008" x="562" y="588" width="530" height="556"/>
+	<SubTexture name="amonglita0009" x="562" y="588" width="530" height="556"/>
+	<SubTexture name="amonglita0010" x="556" y="588" width="530" height="556"/>
+	<SubTexture name="amonglita0011" x="556" y="588" width="530" height="556"/>
+	<SubTexture name="amonglita0012" x="13" y="1164" width="530" height="556"/>
+	<SubTexture name="amonglita0013" x="13" y="1164" width="530" height="556"/>
+</TextureAtlas>

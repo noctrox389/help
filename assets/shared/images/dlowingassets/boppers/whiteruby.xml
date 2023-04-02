@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="white.png">
+	<!-- Created with Adobe Animate version 21.0.9.41377 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="white0000" x="13" y="13" width="231" height="198"/>
+	<SubTexture name="white0001" x="13" y="13" width="231" height="198"/>
+	<SubTexture name="white0002" x="263" y="13" width="231" height="198"/>
+	<SubTexture name="white0003" x="263" y="13" width="231" height="198"/>
+	<SubTexture name="white0004" x="514" y="13" width="231" height="198"/>
+	<SubTexture name="white0005" x="514" y="13" width="231" height="198"/>
+	<SubTexture name="white0006" x="764" y="13" width="231" height="198"/>
+	<SubTexture name="white0007" x="764" y="13" width="231" height="198"/>
+	<SubTexture name="white0008" x="13" y="231" width="231" height="198"/>
+	<SubTexture name="white0009" x="13" y="231" width="231" height="198"/>
+	<SubTexture name="white0010" x="13" y="231" width="231" height="198"/>
+	<SubTexture name="white0011" x="13" y="231" width="231" height="198"/>
+	<SubTexture name="white0012" x="13" y="231" width="231" height="198"/>
+	<SubTexture name="white0013" x="13" y="231" width="231" height="198"/>
+</TextureAtlas>

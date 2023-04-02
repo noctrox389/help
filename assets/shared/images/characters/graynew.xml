@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="graynew.png" width="2957" height="2037">
+  <SubTexture name="up0002_copy_639x339.png" x="0" y="0"  width="637" height="321" frameX="-0" frameY="-18" frameWidth="639" frameHeight="339"/>
+  <SubTexture name="down0002_copy_478x372.png" x="637" y="0"  width="439" height="322" frameX="-21" frameY="-35" frameWidth="478" frameHeight="372"/>
+  <SubTexture name="down0000_copy_478x372.png" x="1076" y="0"  width="456" height="335" frameX="-0" frameY="-37" frameWidth="478" frameHeight="372"/>
+  <SubTexture name="down0001_copy_478x372.png" x="1532" y="0"  width="456" height="335" frameX="-0" frameY="-37" frameWidth="478" frameHeight="372"/>
+  <SubTexture name="up0001_copy_639x339.png" x="1988" y="0"  width="624" height="338" frameX="-15" frameY="-1" frameWidth="639" frameHeight="339"/>
+  <SubTexture name="right0000_copy_492x400.png" x="2612" y="0" width="345" height="492" rotated="true"  frameX="-0" frameY="-31" frameWidth="492" frameHeight="400"/>
+  <SubTexture name="up0000_copy_639x339.png" x="0" y="321"  width="624" height="339" frameX="-15" frameY="-0" frameWidth="639" frameHeight="339"/>
+  <SubTexture name="right0001_copy_492x400.png" x="624" y="335"  width="492" height="347" frameX="-0" frameY="-31" frameWidth="492" frameHeight="400"/>
+  <SubTexture name="left0000_copy_589x377.png" x="1116" y="335"  width="534" height="351" frameX="-0" frameY="-26" frameWidth="589" frameHeight="377"/>
+  <SubTexture name="left0001_copy_589x377.png" x="1650" y="338"  width="534" height="351" frameX="-0" frameY="-26" frameWidth="589" frameHeight="377"/>
+  <SubTexture name="right0002_copy_492x400.png" x="2184" y="338" width="398" height="434" rotated="true"  frameX="-33" frameY="-0" frameWidth="492" frameHeight="400"/>
+  <SubTexture name="left0002_copy_589x377.png" x="2582" y="492" width="373" height="519" rotated="true"  frameX="-51" frameY="-4" frameWidth="589" frameHeight="377"/>
+  <SubTexture name="idle0000_copy_484x461.png" x="0" y="660"  width="479" height="429" frameX="-0" frameY="-17" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0001_copy_484x461.png" x="479" y="682"  width="479" height="431" frameX="-0" frameY="-17" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0012_copy_484x461.png" x="958" y="686"  width="454" height="443" frameX="-14" frameY="-0" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0013_copy_484x461.png" x="1412" y="689"  width="454" height="444" frameX="-14" frameY="-0" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0008_copy_484x461.png" x="1866" y="772"  width="458" height="446" frameX="-14" frameY="-0" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0009_copy_484x461.png" x="2324" y="1011"  width="458" height="447" frameX="-14" frameY="-0" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0010_copy_484x461.png" x="0" y="1089"  width="455" height="448" frameX="-14" frameY="-0" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0011_copy_484x461.png" x="455" y="1113"  width="455" height="449" frameX="-14" frameY="-0" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0002_copy_484x461.png" x="910" y="1129"  width="481" height="450" frameX="-3" frameY="-10" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0006_copy_484x461.png" x="1391" y="1133"  width="467" height="458" frameX="-12" frameY="-0" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0007_copy_484x461.png" x="1858" y="1218" width="459" height="467" rotated="true"  frameX="-12" frameY="-0" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0003_copy_484x461.png" x="2317" y="1458"  width="481" height="451" frameX="-3" frameY="-10" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0004_copy_484x461.png" x="0" y="1562"  width="478" height="456" frameX="-6" frameY="-3" frameWidth="484" frameHeight="461"/>
+  <SubTexture name="idle0005_copy_484x461.png" x="478" y="1579"  width="478" height="458" frameX="-6" frameY="-3" frameWidth="484" frameHeight="461"/>
+</TextureAtlas>
